@@ -1,0 +1,5 @@
+
+ & C:/Users/USER/AppData/Local/Programs/Python/Python311/python.exe d:/tugasopfile2/fileclass.py
+ VITO SUGIANTORO
+ JORDI EL NINO
+ KSATRIO SANTOS UNI BAKWAN
